@@ -1,4 +1,4 @@
-# 🏦 LedgerX - Enterprise Invoice Intelligence Platform
+#  LedgerX - Enterprise Invoice Intelligence Platform
 
 <div align="center">
 
